@@ -1,0 +1,6 @@
+2025-03-12 18:02:03,770 - ERROR - Failed to initialize game: ALSA: Couldn't open audio device: No such file or directory
+2025-03-12 18:02:03,785 - INFO - Game cleaned up successfully
+2025-03-12 18:02:24,228 - ERROR - Failed to initialize game: ALSA: Couldn't open audio device: No such file or directory
+2025-03-12 18:02:24,241 - INFO - Game cleaned up successfully
+2025-03-12 18:14:02,146 - ERROR - Failed to initialize game: ALSA: Couldn't open audio device: No such file or directory
+2025-03-12 18:14:02,165 - INFO - Game cleaned up successfully
