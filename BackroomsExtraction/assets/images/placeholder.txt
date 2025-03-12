@@ -1,0 +1,7 @@
+Questa cartella conterrà le immagini del gioco:
+- player.png: sprite del giocatore
+- enemy.png: sprite dei nemici
+- wall.png: texture delle pareti
+- floor.png: texture del pavimento
+- light.png: effetto di illuminazione
+- extraction.png: punto di estrazione
