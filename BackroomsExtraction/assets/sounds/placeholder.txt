@@ -1,0 +1,11 @@
+Questa cartella conterrà gli effetti sonori del gioco:
+- footstep.wav: passi del giocatore
+- enemy_detect.wav: suono quando un nemico rileva il giocatore
+- enemy_ambient.wav: suoni ambientali dei nemici
+- ambient_hum.wav: rumore di sottofondo delle Backrooms
+- light_flicker.wav: suono delle luci tremolanti
+- door_open.wav: apertura delle porte
+- extraction_active.wav: punto di estrazione attivo
+- damage.wav: suono quando il giocatore subisce danno
+- game_over.wav: suono di game over
+- success.wav: suono di estrazione riuscita
